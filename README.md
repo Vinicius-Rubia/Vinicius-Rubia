@@ -1,4 +1,4 @@
-## Olá! Eu sou o Viniciu Rubia
+## Olá! Eu sou o Vinicius Rubia
 
 <div>
   <a href="https://github.com/Vinicius-Rubia">
